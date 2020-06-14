@@ -8,3 +8,8 @@ Using pip3:
 
 ## Start the server
 -python3 run.py
+
+
+
+## Silent demo
+https://youtu.be/GqpnjUt7vhA
