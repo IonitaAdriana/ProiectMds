@@ -9,10 +9,10 @@ from flaskblog.models import User
 
 class RegistrationForm(FlaskForm):
     '''
-    - aceasta clasa reprzinta formularul de inregistrare pe pagina
+    - aceasta clasa reprezinta formularul de inregistrare pe pagina
     - aici se completeaza username, email, parola si se verifica
         parola
-    - se verifica daca exista deja conturi cu aceste e-mailuri sau
+    - contine metode care verifica daca exista deja conturi cu aceste e-mailuri sau
         username-uri
     - contine de asemenea si buton de submit
     '''
@@ -38,7 +38,7 @@ class RegistrationForm(FlaskForm):
 
 class LoginForm(FlaskForm):
     '''
-    - aceasta clasa reprezinta formularul de log-in pe pagina
+    - aceasta clasa reprezinta formularul de login pe pagina
     - se completeaza e-mail si parola
     - exista de asemenea un camp in care se poate alege optiunea
         de a se retine datele introduse mai sus
