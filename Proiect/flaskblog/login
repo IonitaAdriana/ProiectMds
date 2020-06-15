@@ -1,0 +1,13 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: flask in c:\program files (x86)\python38-32\lib\site-packages (1.1.2)
+Requirement already satisfied: itsdangerous>=0.24 in c:\program files (x86)\python38-32\lib\site-packages (from flask) (1.1.0)
+Requirement already satisfied: click>=5.1 in c:\program files (x86)\python38-32\lib\site-packages (from flask) (7.1.2)
+Requirement already satisfied: Jinja2>=2.10.1 in c:\program files (x86)\python38-32\lib\site-packages (from flask) (2.11.2)
+Requirement already satisfied: Werkzeug>=0.15 in c:\program files (x86)\python38-32\lib\site-packages (from flask) (1.0.1)
+Requirement already satisfied: MarkupSafe>=0.23 in c:\program files (x86)\python38-32\lib\site-packages (from Jinja2>=2.10.1->flask) (1.1.1)
+Could not build wheels for flask, since package 'wheel' is not installed.
+Could not build wheels for itsdangerous, since package 'wheel' is not installed.
+Could not build wheels for click, since package 'wheel' is not installed.
+Could not build wheels for Jinja2, since package 'wheel' is not installed.
+Could not build wheels for Werkzeug, since package 'wheel' is not installed.
+Could not build wheels for MarkupSafe, since package 'wheel' is not installed.
